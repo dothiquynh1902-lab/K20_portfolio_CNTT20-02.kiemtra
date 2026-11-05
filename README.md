@@ -1,19 +1,19 @@
 # K20_Lab6
-# [Lab8]
+ [Lab8]
 ## Sản phẩm này là gì?
-[Một câu: website github, dành cho ai]
+Website giới thiệu bản thân và các dự án đã làm 
 ## Demo
-https://[tài-khoản].github.io/[tên-repo]/
+https://dothiquynh1902-lab.github.io/K20_portfolio_CNTT20-02.kiemtra/
 ## Tính năng
-- [Ví dụ: Bấm Dự án để xem 3 dự án học tập]
+Bình thường 
 ## Cách mở
 1. Mở URL ở mục Demo.
-2. [Bấm … để xem …]
+2. Bấm để xem chi tiết portfolio
 ## Cấu trúc thư mục
-index.html, css/, images/, docs/
+index.html, ket-qua.html, css/, assets/, AI_log.md, README.md, docs
 ## Đã kiểm tra
-Xem docs/evidence-index.md
+xem index.html và css đã chạy ổn định không lỗi
 ## Hạn chế / Chưa kiểm tra
-- [Ví dụ: chưa thử trên iPhone]
+ chưa thử trên iPhone
 ## Khai báo AI
-Xem docs/AI_LOG.md
+Xem AI_LOG.md
