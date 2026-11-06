@@ -1,4 +1,4 @@
-# K20_Lab6
+# K20_portfolio_CNTT20-02
  [Lab8]
 ## Sản phẩm này là gì?
 Website giới thiệu bản thân và các dự án đã làm 
